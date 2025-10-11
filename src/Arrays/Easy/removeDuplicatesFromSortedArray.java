@@ -1,5 +1,8 @@
 package Arrays.Easy;
 
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+
 public class removeDuplicatesFromSortedArray {
     /* Given an integer array sorted in non-decreasing order,
     remove the duplicates in place such that each unique element appears only once.
@@ -30,4 +33,26 @@ public class removeDuplicatesFromSortedArray {
 
         return i+1;
     }
-}
+
+
+    public int removeDuplicates(int[] nums)
+        {
+            int k=0,i;
+            int count =0;
+            HashSet<Integer> set = new LinkedHashSet<>();
+            for(i=0;i<nums.length;i++)
+            {
+
+                set.add(nums[i]);
+
+            }
+
+            for(int num : set)
+            {
+                nums[count++] = num;
+            }
+
+            return set.size();
+        }
+    }
+
