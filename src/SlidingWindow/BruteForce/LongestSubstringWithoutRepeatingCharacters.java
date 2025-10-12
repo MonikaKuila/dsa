@@ -2,7 +2,7 @@ package SlidingWindow.BruteForce;
 
 import java.util.HashMap;
 
-class Solution
+class LongestSubstringWithoutRepeatingCharacters
 {
         public static int lengthOfLongestSubstring(String s)
         {
