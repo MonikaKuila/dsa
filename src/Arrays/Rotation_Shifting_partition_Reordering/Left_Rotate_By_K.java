@@ -1,4 +1,4 @@
-package Arrays.Rotation_Shifting_partition;
+package Arrays.Rotation_Shifting_partition_Reordering;
 
 /*1️⃣ ⃣ Left Rotate Array by K
 

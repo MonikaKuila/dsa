@@ -1,4 +1,4 @@
-package Arrays.Rotation_Shifting_partition;
+package Arrays.Rotation_Shifting_partition_Reordering;
 
 /*Problem Type: Partitioning
 Example: [0,1,0,3,12] → [1,3,12,0,0]

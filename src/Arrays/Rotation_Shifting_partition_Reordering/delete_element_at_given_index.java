@@ -1,4 +1,4 @@
-package Arrays.Rotation_Shifting_partition;
+package Arrays.Rotation_Shifting_partition_Reordering;
 
 public class delete_element_at_given_index
 {
