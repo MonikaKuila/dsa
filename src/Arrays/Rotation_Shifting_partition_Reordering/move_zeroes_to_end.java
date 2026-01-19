@@ -13,7 +13,7 @@ Golden Rules Applied
         📌 No overwrite risk → direction rule not needed*/
 
 /*✅ Golden Rules — VERIFIED
-✔ GR-7 → Two-pointer
+✔ GR-7 → Two-pointer cggfhfgbgjbdhfchgfvfjhfdhvfgdhfzsAXHBN,GFGHJHDHFHHHFGJFGFGDGJFHNGFJFHFVXVXNVHGVFVCVCHVFGGHTWHCC5UCJ57U44CWTERDCSDGCXC CBBNCMGB5IWB S32HUFHTTRRRFFDDDF
 
 Correct.
 We use:
